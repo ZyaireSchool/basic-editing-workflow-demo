@@ -13,4 +13,5 @@ This is body text under the *second header*
 ```
 int a;
 int b;
+int c;
 ```
