@@ -9,6 +9,10 @@ This is body text under the *second header*
 #### Header 4
 ##### Header 5
 
+This is a list
+* item 1
+* item 2
+
 ## Sample Code
 ```
 int a;
